@@ -1,7 +1,5 @@
 # Formulario Web Blockchain
 
-http://127.0.0.1:5500/src/index.html
-
 Este repositorio contiene un formulario web relacionado con tecnología blockchain.
 
 ## Descripción
@@ -26,3 +24,4 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes consultar el archivo LICENSE para obtener más detalles.
+
